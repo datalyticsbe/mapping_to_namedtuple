@@ -9,7 +9,7 @@ setup(
     name='mapping_to_namedtuple',
     version=0.1,
     packages=find_packages(),
-    description='Converts python Mapping to namedtuple recursively',
+    description='Converts Python Mapping to namedtuple recursively',
     url='https://github.com/datalyticsbe/mapping_to_namedtuple/',
     license='MIT',
     author='Datalytics BVBA',
